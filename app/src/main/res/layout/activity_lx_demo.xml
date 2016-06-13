@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/all"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:onClick="start"
+        android:text="开始"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp" />
+
+
+    <ImageView
+        android:id="@+id/mFavorite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_favorite_blue_900_24dp" />
+
+</RelativeLayout>

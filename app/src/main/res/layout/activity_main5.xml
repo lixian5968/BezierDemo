@@ -1,0 +1,30 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.lx.bezierdemo.Demo5.LxBezierView
+        android:id="@+id/mLxBezierView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    </com.lx.bezierdemo.Demo5.LxBezierView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:onClick="start"
+            android:text="start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        
+
+
+    </RelativeLayout>
+</FrameLayout>

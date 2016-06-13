@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BezierDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lx_demo">LxDemoActivity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_activity_all">AllActivity</string>
+    <string name="title_activity_main5">Main5Activity</string>
+</resources>
